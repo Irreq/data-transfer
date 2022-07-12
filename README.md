@@ -1,4 +1,6 @@
-# data-transfer
+# [data-transfer](https://github.com/acoustic-warfare/data-transfer)
+
+Archived version, see: [data-transfer](https://github.com/acoustic-warfare/data-transfer)
 
 A COTS GPUDirect RDMA data transer demo between two nodes (Back-to-Back) using Mellanox ConnectX-6 Dx and Nvidia Quadro M4000 GPU's
 
